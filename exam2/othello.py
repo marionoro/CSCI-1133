@@ -1,12 +1,3 @@
-# Paul Opheim ophei033
-# I understand this is a graded, individual examination that may not be
-# discussed with anyone. I also understand that obtaining solutions or
-# partial solutions from outside sources, or discussing
-# any aspect of the examination with anyone will result in failing the course.
-# I further certify that this program represents my own work none it was
-# obtained from any source other than material presented as part of the
-# course.
-
 import math
 import random
 import turtle
